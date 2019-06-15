@@ -24,5 +24,7 @@
 <center><img src="./img/test.jpg" width="300" height="300"><br><strong>라즈베리파이와 LED 연결</strong><br><br>
 <img src="./img/before_lighting.jpg" width="300" height="300"><br><strong>시계에 LED 시험 연결</strong><br><br>
 <img src="./img/lighting.jpg" width="300" height="300"><br><strong>LED 연결 완료</strong><br><br>
+  
+### 1.3 Result
 <img src="./img/lighted.jpg" width="300" height="300"><br><strong>미세먼지 시계 하드웨어 프로토타입</strong><center><br><br>
 
