@@ -1,4 +1,5 @@
-# Watch Out! Project
+# Watch Dust! Project
+일상생활 속에서 자연스럽게 미세먼지를 확인할 수 있는 Watch
 
 You can use the [editor on GitHub](https://github.com/jimin030/Watch_Out_Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
