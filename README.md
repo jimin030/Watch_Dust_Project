@@ -27,11 +27,11 @@ Watch Dust! 프로젝트의 제품은 가정용 미세먼지 시계를 컨셉으
 
 
 2. 라즈베리 파이, 시계에 미세먼지 농도에 따라 빛으로 표현하게 하는 LED를 사용하였다. 시계의 센서를 통해 미세먼지 농도 정보를 받아들이고 현재 시각 이후의 농도는 미세먼지 예측 데이터를 에어코리아, 국가정보관리원과 같은 사이트에서 제공하는 데이터를 받아 대기의 상태를 매우 나쁨/나쁨/보통/좋음으로 나누어 다르게 표현할 예정이었다. LED의 색상은 농도에 따라 매우 나쁨(빨강), 나쁨(노랑), 보통(초록), 좋음(파랑)으로 나누어 표현하였다. LED는 빵판과 선을 이용하여 라즈베리 파이에 연결하였다. 
-<center><img src="./img/test.jpg" width="300" height="300"></center>
+<img src="./img/test.jpg" width="300" height="300">
 <strong>라즈베리파이와 LED 연결</strong>
-<center><img src="./img/before_lighting.jpg" width="300" height="300"></center>
+<img src="./img/before_lighting.jpg" width="300" height="300">
 <strong>시계에 LED 시험 연결</strong>
-<center><img src="./img/lighting.jpg" width="300" height="300"></center>
+<img src="./img/lighting.jpg" width="300" height="300">
 <strong>LED 연결 완료</strong>
-<center><img src="./img/lighted.jpg" width="300" height="300"></center>
+<img src="./img/lighted.jpg" width="300" height="300">
 <strong>미세먼지 시계 하드웨어 프로토타입</strong>
