@@ -10,11 +10,12 @@ Watch Dust! 프로젝트의 제품은 가정용 미세먼지 시계를 컨셉으
 ### 1.2 How To Develop
 제품을 제작하기 위해서 아크릴 판과 나무판을 레이저 커팅하여 아날로그 시계 구조를 제작하였으며, 시계 침과 초는 따로 구매하였다.
 다음은 레이저 커팅 도면과 실제 커팅을 한 후 모습이다.
-![title](./img/laser_cut.png){: width="300" height="300"}
-![title](./img/laser_cut.jpg){: width="300" height="300"}
-![title](./img/clock_cover.jpg){: width="300" height="300"}
+<img src="./img/laser_cut.png" width="300" height="300">
+<img src="./img/laser_cut.jpg" width="300" height="300">
+<img src="./img/clock_cover.jpg" width="300" height="300">
+
 
 라즈베리 파이, 시계에 미세먼지 농도에 따라 빛으로 표현하게 하는 LED를 사용하였다. 시계의 센서를 통해 미세먼지 농도 정보를 받아들이고 현재 시각 이후의 농도는 미세먼지 예측 데이터를 에어코리아, 국가정보관리원과 같은 사이트에서 제공하는 데이터를 받아 대기의 상태를 매우 나쁨/나쁨/보통/좋음으로 나누어 다르게 표현할 예정이었다. LED의 색상은 농도에 따라 매우 나쁨(빨강), 나쁨(노랑), 보통(초록), 좋음(파랑)으로 나누어 표현하였다. LED는 빵판과 선을 이용하여 라즈베리 파이에 연결하였다. 
-![title](./img/test.jpg){: width="300" height="300"}
-![title](./img/lighting.jpg){: width="300" height="300"}
-![title](./img/lighted.jpg){: width="300" height="300"}
+<img src="./img/test.jpg" width="300" height="300">
+<img src="./img/lighting.jpg" width="300" height="300">
+<img src="./img/lighted.jpg" width="300" height="300">
