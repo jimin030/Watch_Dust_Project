@@ -1,3 +1,2 @@
-@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 theme: jekyll-theme-architect
 font-family: 'Nanum Gothic', serif;
