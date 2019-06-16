@@ -28,7 +28,8 @@
 ### 1.3 Result
 <center><img src="./img/lighted.jpg" width="300" height="300"><br><strong>미세먼지 시계 하드웨어 프로토타입</strong></center><br><br>
 
-## 2. Watch Dust's Software Product
+## 2. Watch Dust's Software App
+
 ### 2.1 Concept
 >어플리케이션은 처음 키고 메인화면이 나오기 전, 로딩 중일 때 나오는 화면이다. 본 어플리케이션의 메인 캐릭터가 가운데에 등장한다. “ loading… “이라는 문장이 하단에 나온다. 그중 “…”의 경우, “.”개에서 세개까지 시간적 간격을 두면 타이핑되고 다시 하나로 가능 등의 효과를 주어서 어플리케이션이 작동중인 것을 간접적으로 보여준다.
 <center><img src="./img/loading.png" width="300" height="400"><br><strong>로딩 화면</strong></center><br><br>
@@ -51,10 +52,6 @@
 >잠금화면에 캐릭터 위젯 서비스를 제 공함으로 어플을 들어가지 않아도 대 략적인 미세먼지 현황을 알 수 있도 록 한다.
 캐릭터는 미세먼지 현황(좋음, 보통, 나쁨, 매우 나쁨)에 따라 색으로 나타 낸 각 캐릭터들이 화면에 등장한다. 캐릭터는 드래그를 통하여 스티커처 럼 이동이 가능하고 터치를 하면 말 풍선으로 현재 미세먼지의 수치적 현 황을 알려주거나 ‘마스크를 챙기시오’ 등 다양한 인터페이스용 대화를 탑재 하여 좀 더 사용자와 친근감을 가지 도록 디자인한다.
 <center><img src="./img/lock.png" width="300" height="400"><br><strong>잠금 화면 캐릭터 위젯 서비스</strong></center><br><br>
-
-
-
-
 
 ### 2.2 How To Develop
 
