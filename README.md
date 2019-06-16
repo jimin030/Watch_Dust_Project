@@ -82,8 +82,8 @@
 지역설정 화면에서는 현재 설정된 지역이 아닌 다른 지역로 설정을 바꾸어, 타지역의 미세먼지 정보를 실시간으로 확인할 수 있다.
 지역 검색창을 눌러 지역을 직접 검색할 수 있으며, 음성인식도 지원하여 간편하게 원하는 지역을 찾을 수 있다. 
 <center><img src="./img/location.jpg.png" width="300" height="400"><br><strong>지역 설정 화면</strong><br><br>
-<center><img src="./img/typing.jpg.png" width="300" height="400"><br><strong>지역 검색</strong><br><br>
-<center><img src="./img/voice.jpg.png" width="300" height="400"><br><strong>지역 음성 인식</strong><br></center><br>
+<img src="./img/typing.jpg.png" width="300" height="400"><br><strong>지역 검색</strong><br><br>
+<img src="./img/voice.jpg.png" width="300" height="400"><br><strong>지역 음성 인식</strong><br></center><br>
   
 ### Menu
 >좌측 상단의 메뉴 버튼을 클릭하거나 왼쪽에서 오른쪽으로 화면을 스와이프하면 메뉴창이 나타난다. 
