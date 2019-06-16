@@ -3,8 +3,8 @@
 
 <center><img src="./img/overall.png" width="500" height="300"></center>
 
-## 1. Watch Dust's Hardware Product
-### 1.1 Concept
+# Watch Dust's Hardware Product
+## Concept
 >Watch Dust! 프로젝트의 제품은 가정용 미세먼지 시계를 컨셉으로 제작된다. 미세먼지 시계란 다음 사진과 같이 동그란 아날로그 시계 테두리에 각 시간에 따라 미세먼지 농도 변화를 색상으로 표현해줄 수 있는 LED를 달아 사용자가 시각적으로 하루의 미세먼지 농도를 지각하게 하는 것에 초점을 둔다. 하루의 미세먼지 농도를 종합적으로 시각화하기 위해서는 시계와 결합하는 것이 어떨까라는 아이디어에서 시작하였다. 시계 중에서도 디지털 시계가 아닌 아날로그 시계를 택한 이유는 Design for Simplicity, Ease of Use를 실천하기 위해 디지털 기기에 생소한 사용자들도 편리하게 사용할 수 있기 때문이다. 또한, LED를 통해 조명으로 미세먼지를 표현하면서 디지털 화면을 보여준다면 사용자의 눈에 피로가 가서 장기간 사용하기에 무리가 있다고 판단되어 다음과 같은 결정을 하였다.
 
 <center><img src="./img/hardware_prototype.png" width="300" height="300"><br><strong>Low-Fidelity Concept</strong><br><br>
@@ -12,7 +12,7 @@
 <img src="./img/light_color.jpg" width="300" height="300"><br><strong>Color Division</strong><br></center><br>
 
 
-### 1.2 How To Develop
+## How To Develop
 >제품을 제작하기 위해서 아크릴 판과 나무판을 레이저 커팅하여 아날로그 시계 구조를 제작하였으며, 시계 침과 초는 따로 구매하였다.
 다음은 레이저 커팅 도면과 실제 커팅을 한 후 모습이다.
 <center><img src="./img/laser_cut.png" width="300" height="300"><br><strong>레이저 커팅 도면</strong><br><br>
@@ -25,12 +25,12 @@
 <img src="./img/before_lighting.jpg" width="300" height="300"><br><strong>시계에 LED 시험 연결</strong><br><br>
 <img src="./img/lighting.jpg" width="300" height="300"><br><strong>LED 연결 완료</strong></center>
   
-### 1.3 Result
+## Result
 <center><img src="./img/lighted.jpg" width="300" height="300"><br><strong>미세먼지 시계 하드웨어 프로토타입</strong></center>  
 
-## 2. Watch Dust's Software App  
+# Watch Dust's Software App  
 
-### 2.1 Concept
+## Concept
 >어플리케이션은 처음 키고 메인화면이 나오기 전, 로딩 중일 때 나오는 화면이다. 본 어플리케이션의 메인 캐릭터가 가운데에 등장한다. “ loading… “이라는 문장이 하단에 나온다. 그중 “…”의 경우, “.”개에서 세개까지 시간적 간격을 두면 타이핑되고 다시 하나로 가능 등의 효과를 주어서 어플리케이션이 작동중인 것을 간접적으로 보여준다.
 <center><img src="./img/loading.png" width="300" height="400"><br><strong>로딩 화면</strong></center><br><br>
 
@@ -53,6 +53,6 @@
 캐릭터는 미세먼지 현황(좋음, 보통, 나쁨, 매우 나쁨)에 따라 색으로 나타 낸 각 캐릭터들이 화면에 등장한다. 캐릭터는 드래그를 통하여 스티커처 럼 이동이 가능하고 터치를 하면 말 풍선으로 현재 미세먼지의 수치적 현 황을 알려주거나 ‘마스크를 챙기시오’ 등 다양한 인터페이스용 대화를 탑재 하여 좀 더 사용자와 친근감을 가지 도록 디자인한다.
 <center><img src="./img/lock.png" width="300" height="400"><br><strong>잠금 화면 캐릭터 위젯 서비스</strong></center><br><br>
 
-### 2.2 How To Develop
-### 2.3 Result
+## 2.2 How To Develop
+## 2.3 Result
 <iframe width="640" height="360" src="https://www.youtube.com/watch?v=ZHyYesIwEAY&feature=youtu.be" frameborder="0" gesture="media" allowfullscreen=""></iframe>
