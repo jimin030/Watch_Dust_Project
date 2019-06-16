@@ -54,4 +54,5 @@
 <center><img src="./img/lock.png" width="300" height="400"><br><strong>잠금 화면 캐릭터 위젯 서비스</strong></center><br><br>
 
 ### 2.2 How To Develop
-
+### 2.3 Result
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=ZHyYesIwEAY&feature=youtu.be" frameborder="0" gesture="media" allowfullscreen=""></iframe>
