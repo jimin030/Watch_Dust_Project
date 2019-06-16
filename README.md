@@ -60,8 +60,8 @@
 
 ### Login
 >시작화면에서는 사용자의 로그인이 가능하며, 로그인이 완료되면 로딩화면으로 넘어간다.
-<center><img src="./img/login.jpg" width="300" height="400"><br><strong>시작 화면</strong><br><br>
-<center><img src="./img/loading.jpg" width="300" height="400"><br><strong>로딩중</strong></center><br><br>
+<center><img src="./img/login.png" width="300" height="400"><br><strong>시작 화면</strong><br><br>
+<center><img src="./img/loading.png" width="300" height="400"><br><strong>로딩중</strong></center><br><br>
 
 ## Result
 [![클릭 후 어플 구동 영상으로 이동](http://img.youtube.com/vi/ZHyYesIwEAY/0.jpg)](https://www.youtube.com/watch?v=ZHyYesIwEAY&t=3s?t=0s) 
