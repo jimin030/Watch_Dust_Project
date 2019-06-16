@@ -55,7 +55,7 @@
 <center><img src="./img/lock.png" width="300" height="400"><br><strong>잠금 화면 캐릭터 위젯 서비스</strong></center><br><br>
 
 ## How To Develop
-<center><img src="./img/marvel.jpg.png" width="300" height="400"></center><br><br>
+<center><img src="./img/marvel.jpg.png" width="200" height="100"></center><br><br>
 
 >프로토타입핑 툴 마블을 사용하여 Watch Dust! 프로토타입 앱을 제작하였다. 마블은 스크린을 불러오고, 핫스팟을 만들어서 연결하는 방식으로서 간단한 screen by screen 프로토타입을 제작하기에 탁월하다. 스크린 간의 인터랙션을 잘 나타내줄 수 있고 빠르고 쉽게 프로토타이핑이 가능하다. 어플 스크린은 총 6개로서 시작화면, 로딩화면, 메인화면 세부먼지정보 화면, 지역설정 화면, 메뉴로 나뉜다.
 
