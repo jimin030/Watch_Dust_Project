@@ -12,6 +12,7 @@
 <img src="./img/hardware_concept.jpg" width="300" height="300"><br><strong>Concept Image</strong><br><br>
 <img src="./img/light_color.jpg" width="300" height="300"><br><strong>Color Division</strong><br></center><br>
 
+---
 ## How To Develop
 >제품을 제작하기 위해서 아크릴 판과 나무판을 레이저 커팅하여 아날로그 시계 구조를 제작하였으며, 시계 침과 초는 따로 구매하였다.
 다음은 레이저 커팅 도면과 실제 커팅을 한 후 모습이다.
@@ -92,5 +93,4 @@
 <center><img src="./img/menu.jpg.png" width="300" height="400"><br><strong> 화면</strong><br></center><br>
 ---
 ## Result
-<center>[![클릭 후 어플 구동 영상으로 이동](https://img.youtube.com/vi/ZHyYesIwEAY/0.jpg)](https://www.youtube.com/watch?v=ZHyYesIwEAY&t=3s?t=0s) 
-<br><strong>사진 클릭 후 어플 구동 영상으로 이동</strong></center>
+[![클릭 후 어플 구동 영상으로 이동](https://img.youtube.com/vi/ZHyYesIwEAY/0.jpg)](https://www.youtube.com/watch?v=ZHyYesIwEAY&t=3s?t=0s) <br><strong>사진 클릭 후 어플 구동 영상으로 이동</strong>
