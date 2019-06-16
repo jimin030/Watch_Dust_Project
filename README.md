@@ -26,9 +26,9 @@
 <img src="./img/lighting.jpg" width="300" height="300"><br><strong>LED 연결 완료</strong><br><br>
   
 ### 1.3 Result
-<center><img src="./img/lighted.jpg" width="300" height="300"><br><strong>미세먼지 시계 하드웨어 프로토타입</strong></center><br><br>
+<center><img src="./img/lighted.jpg" width="300" height="300"><br><strong>미세먼지 시계 하드웨어 프로토타입</strong></center><br><br>  
 
-## 2. Watch Dust's Software App
+## 2. Watch Dust's Software App  
 
 ### 2.1 Concept
 >어플리케이션은 처음 키고 메인화면이 나오기 전, 로딩 중일 때 나오는 화면이다. 본 어플리케이션의 메인 캐릭터가 가운데에 등장한다. “ loading… “이라는 문장이 하단에 나온다. 그중 “…”의 경우, “.”개에서 세개까지 시간적 간격을 두면 타이핑되고 다시 하나로 가능 등의 효과를 주어서 어플리케이션이 작동중인 것을 간접적으로 보여준다.
