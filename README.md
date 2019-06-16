@@ -31,7 +31,6 @@
 ## Result
 <center><img src="./img/lighted.jpg" width="300" height="300"><br><strong>미세먼지 시계 하드웨어 프로토타입</strong></center>  
 
-
 ---
 # Watch Dust's Software App  
 
@@ -57,21 +56,25 @@
 >잠금화면에 캐릭터 위젯 서비스를 제 공함으로 어플을 들어가지 않아도 대 략적인 미세먼지 현황을 알 수 있도 록 한다.
 캐릭터는 미세먼지 현황(좋음, 보통, 나쁨, 매우 나쁨)에 따라 색으로 나타 낸 각 캐릭터들이 화면에 등장한다. 캐릭터는 드래그를 통하여 스티커처 럼 이동이 가능하고 터치를 하면 말 풍선으로 현재 미세먼지의 수치적 현 황을 알려주거나 ‘마스크를 챙기시오’ 등 다양한 인터페이스용 대화를 탑재 하여 좀 더 사용자와 친근감을 가지도록 디자인한다.
 <center><img src="./img/lock.png" width="300" height="400"><br><strong>잠금 화면 캐릭터 위젯 서비스</strong></center><br><br>
+
 ---
 ## How To Develop
 <center><img src="./img/marvel.jpg.png" width="200" height="100"></center>
 
 >프로토타입핑 툴 마블을 사용하여 Watch Dust! 프로토타입 앱을 제작하였다. 마블은 스크린을 불러오고, 핫스팟을 만들어서 연결하는 방식으로서 간단한 screen by screen 프로토타입을 제작하기에 탁월하다. 스크린 간의 인터랙션을 잘 나타내줄 수 있고 빠르고 쉽게 프로토타이핑이 가능하다. 어플 스크린은 총 6개로서 시작화면, 로딩화면, 메인화면 세부먼지정보 화면, 지역설정 화면, 메뉴로 나뉜다.
+
 ---
 ### Login
 >시작화면에서는 사용자의 로그인이 가능하며, 로그인이 완료되면 로딩화면으로 넘어간다.
 <center><img src="./img/login.jpg.png" width="300" height="400"><br><strong>시작 화면</strong><br><br>
 <img src="./img/loading.jpg.png" width="300" height="400"><br><strong>로딩중</strong></center><br><br>
+
 --- 
 ### Main
 >현재부터 앞으로 12시간까지의 미세먼지 현황을 색을 통해 시각적이면서도 직관적으로 볼 수 있다. 
 화면 아래의 표는 오늘부터 앞으로 일주일 간의 미세먼지 예상 정보를 이모티콘을 활용해 나타낸 것이다.
 <center><img src="./img/main.jpg.png" width="300" height="400"><br><strong>메인 화면</strong><br></center><br>
+
 ---
 ### Detail
 >상단 우측의 메뉴에서 미세먼지 버튼을 누르면 상세 페이지로 이동한다.
@@ -85,12 +88,14 @@
 <center><img src="./img/location.jpg.png" width="300" height="400"><br><strong>지역 설정 화면</strong><br><br>
 <img src="./img/typing.jpg.png" width="300" height="400"><br><strong>지역 검색</strong><br><br>
 <img src="./img/voice.jpg.png" width="300" height="400"><br><strong>지역 음성 인식</strong><br></center><br>
+
 ---
 ### Menu
 >좌측 상단의 메뉴 버튼을 클릭하거나 왼쪽에서 오른쪽으로 화면을 스와이프하면 메뉴창이 나타난다. 
 메뉴에서 로그인한 자신의 계정을 확인할 수 있으며, 마이페이지, 테마변경, 환경설정 등이 가능하다.
 메인 화면을 클릭하거나, 끝내기 버튼을 끌릭하거나 오른쪽에서 왼쪽으로 스와이프할 시 메뉴화면에서 메인 화면으로 이동한다. 
 <center><img src="./img/menu.jpg.png" width="300" height="400"><br><strong> 화면</strong><br></center><br>
+
 ---
 ## Result
 [![클릭 후 어플 구동 영상으로 이동](https://img.youtube.com/vi/ZHyYesIwEAY/0.jpg)](https://www.youtube.com/watch?v=ZHyYesIwEAY&t=3s?t=0s) <br><strong>사진 클릭 후 어플 구동 영상으로 이동</strong>
