@@ -60,8 +60,32 @@
 
 ### Login
 >시작화면에서는 사용자의 로그인이 가능하며, 로그인이 완료되면 로딩화면으로 넘어간다.
-<center><img src="./img/login.png" width="300" height="400"><br><strong>시작 화면</strong><br><br>
-<center><img src="./img/loading.png" width="300" height="400"><br><strong>로딩중</strong></center><br><br>
+<center><img src="./img/login.jpg" width="300" height="400"><br><strong>시작 화면</strong><br><br>
+<center><img src="./img/loading.jpg" width="300" height="400"><br><strong>로딩중</strong></center><br><br>
+  
+### Main
+>현재부터 앞으로 12시간까지의 미세먼지 현황을 색을 통해 시각적이면서도 직관적으로 볼 수 있다. 
+화면 아래의 표는 오늘부터 앞으로 일주일 간의 미세먼지 예상 정보를 이모티콘을 활용해 나타낸 것이다.
+<center><img src="./img/main.jpg" width="300" height="400"><br><strong>메인 화면</strong><br></center><br>
+
+### Detail
+>상단 우측의 메뉴에서 미세먼지 버튼을 누르면 상세 페이지로 이동한다.
+미세먼지 이외에 대기 오염과 관련된 세부적인 정보들을 어제, 오늘, 내일 데이터를 비교하여 확인할 수 있으며,
+홈 아이콘을 누를 시 다시 메인 화면으로 돌아간다.
+<center><img src="./img/detail.jpg" width="300" height="400"><br><strong>세부 미세먼지 정보 화면</strong><br></center><br>
+
+>메인 화면에서 GPS 모양의 버튼을 클릭하면 지역 설정 화면으로 이동한다.
+지역설정 화면에서는 현재 설정된 지역이 아닌 다른 지역로 설정을 바꾸어, 타지역의 미세먼지 정보를 실시간으로 확인할 수 있다.
+지역 검색창을 눌러 지역을 직접 검색할 수 있으며, 음성인식도 지원하여 간편하게 원하는 지역을 찾을 수 있다. 
+<center><img src="./img/location.jpg" width="300" height="400"><br><strong>지역 설정 화면</strong><br><br>
+<center><img src="./img/typing.jpg" width="300" height="400"><br><strong>지역 검색</strong><br><br>
+<center><img src="./img/voice.jpg" width="300" height="400"><br><strong>지역 음성 인식</strong><br></center><br>
+  
+ ### Menu
+>좌측 상단의 메뉴 버튼을 클릭하거나 왼쪽에서 오른쪽으로 화면을 스와이프하면 메뉴창이 나타난다. 
+메뉴에서 로그인한 자신의 계정을 확인할 수 있으며, 마이페이지, 테마변경, 환경설정 등이 가능하다.
+메인 화면을 클릭하거나, 끝내기 버튼을 끌릭하거나 오른쪽에서 왼쪽으로 스와이프할 시 메뉴화면에서 메인 화면으로 이동한다. 
+<center><img src="./img/menu.jpg" width="300" height="400"><br><strong> 화면</strong><br></center><br>
 
 ## Result
 [![클릭 후 어플 구동 영상으로 이동](http://img.youtube.com/vi/ZHyYesIwEAY/0.jpg)](https://www.youtube.com/watch?v=ZHyYesIwEAY&t=3s?t=0s) 
