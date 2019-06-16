@@ -7,7 +7,7 @@
 ### 1.1 Concept
 >Watch Dust! 프로젝트의 제품은 가정용 미세먼지 시계를 컨셉으로 제작된다. 미세먼지 시계란 다음 사진과 같이 동그란 아날로그 시계 테두리에 각 시간에 따라 미세먼지 농도 변화를 색상으로 표현해줄 수 있는 LED를 달아 사용자가 시각적으로 하루의 미세먼지 농도를 지각하게 하는 것에 초점을 둔다. 하루의 미세먼지 농도를 종합적으로 시각화하기 위해서는 시계와 결합하는 것이 어떨까라는 아이디어에서 시작하였다. 시계 중에서도 디지털 시계가 아닌 아날로그 시계를 택한 이유는 Design for Simplicity, Ease of Use를 실천하기 위해 디지털 기기에 생소한 사용자들도 편리하게 사용할 수 있기 때문이다. 또한, LED를 통해 조명으로 미세먼지를 표현하면서 디지털 화면을 보여준다면 사용자의 눈에 피로가 가서 장기간 사용하기에 무리가 있다고 판단되어 다음과 같은 결정을 하였다.
 
-<center><img src="./img/hardware_concepted.jpg" width="300" height="300"><br><strong>Low-Fidelity Concept</strong><br><br>
+<center><img src="./img/hardware_prototype.png" width="300" height="300"><br><strong>Low-Fidelity Concept</strong><br><br>
 <img src="./img/hardware_concept.jpg" width="300" height="300"><br><strong>Concept Image</strong><br><br>
 <img src="./img/light_color.jpg" width="300" height="300"><br><strong>Color Division</strong><br></center><br>
 
@@ -31,26 +31,26 @@
 ## 2. Watch Dust's Software Product
 ### 2.1 Concept
 >어플리케이션은 처음 키고 메인화면이 나오기 전, 로딩 중일 때 나오는 화면이다. 본 어플리케이션의 메인 캐릭터가 가운데에 등장한다. “ loading… “이라는 문장이 하단에 나온다. 그중 “…”의 경우, “.”개에서 세개까지 시간적 간격을 두면 타이핑되고 다시 하나로 가능 등의 효과를 주어서 어플리케이션이 작동중인 것을 간접적으로 보여준다.
-<center><img src="./img/loading.jpg" width="300" height="300"><br><strong>로딩 화면</strong></center><br><br>
+<center><img src="./img/loading.png" width="300" height="300"><br><strong>로딩 화면</strong></center><br><br>
 
 >로딩이 끝나면 나오는 화면이다.
 상단 좌측에 메뉴를 뜻하는, 줄 세 개 가 아래로 나란히 있는 아이콘이 있 다. 상단 우측에는 왼쪽부터 차례대로 미세먼지 모양 아이콘, 지도 표시 아 이콘이 있다.
 중앙에는 현재 시간을 중심으로 앞으 로 12시간 동안의 미세먼지 현황을 원그래프로 볼 수 있다. 디자인을 시 계 느낌으로 만들어 시간도 함께 표 시되도록 디자인한다. 또한 현재 시간 에 해당하는 부분의 영역을 조금 튀 어나오게 디자인함으로 현재 상태가 더 눈에 띄게 만든다. 시계 위에는 현재 위치에 대한 정보를 텍스트로 제공한다. 하단에는 오늘부터 시작하여 일주일 간의 미세먼지 대략적인 아침 점심 저녁의 예측을 얼굴 표정(좋음, 보통, 나쁨, 매우 나쁨)으로 나타낸다.
-<center><img src="./img/main.jpg" width="300" height="300"><br><strong>메인 화면</strong></center><br><br>
+<center><img src="./img/main.png" width="300" height="300"><br><strong>메인 화면</strong></center><br><br>
 
 >메인 화면의 상단 좌측에 있는 메뉴 버튼을 누르면 왼쪽에서부터 오른쪽 으로 화면이 나타난다. 로그인을 했을 경우 상단에 나의 그림이 나타난다. 그리고 아래로 테마와 화면 등 환경 설정을 할 수 있는 부분이 나타난다. 하드웨어와 연동이 가능할 경우 하드 웨어의 대한 설정도 이곳을 통하여 들어 설정이 가능하다.
-<center><img src="./img/menu.jpg" width="300" height="300"><br><strong>메뉴 화면</strong></center><br><br>
+<center><img src="./img/menu.png" width="300" height="300"><br><strong>메뉴 화면</strong></center><br><br>
 
 >메인 메뉴 상단 우측에 있는 미세먼 지 아이콘을 누르면 이동된다.전환된 화면 상단에는 원래 미세먼지 아이콘이 있던 자리에 홈 아이콘으로 바뀐다. 본 메뉴는 미세먼지 이외의 초미세먼 지, 이산화질소, 오존, 일산화탄소, 아 황산가스의 농도 현황을 이전 5일 이 후 5일 예측과 함께 그래프 형식으로 보여준다. 그리고 가운데 있는 오늘의 현황은 네모박스 등을 통하여 강조한다.
-<center><img src="./img/detail.jpg" width="300" height="300"><br><strong>세부 미세먼지 현황 화면</strong></center><br><br>
+<center><img src="./img/detail.png" width="300" height="300"><br><strong>세부 미세먼지 현황 화면</strong></center><br><br>
 
 >메인 화면에서 지도 표시 아이콘을 누르면 이동된다. 상단에 텍스트 입력칸이 나타나며 ‘동/읍/면을 입력하세요’라는 문장이 기본으로 보여짐으로 사용자의 행동을 유도한다.
 음성인식이 가능하도록 기능을 탑재 하고 우측에 위치시킨다.
-<center><img src="./img/location.jpg" width="300" height="300"><br><strong>위치 설정 화면</strong></center><br><br>
+<center><img src="./img/location.png" width="300" height="300"><br><strong>위치 설정 화면</strong></center><br><br>
 
 >잠금화면에 캐릭터 위젯 서비스를 제 공함으로 어플을 들어가지 않아도 대 략적인 미세먼지 현황을 알 수 있도 록 한다.
 캐릭터는 미세먼지 현황(좋음, 보통, 나쁨, 매우 나쁨)에 따라 색으로 나타 낸 각 캐릭터들이 화면에 등장한다. 캐릭터는 드래그를 통하여 스티커처 럼 이동이 가능하고 터치를 하면 말 풍선으로 현재 미세먼지의 수치적 현 황을 알려주거나 ‘마스크를 챙기시오’ 등 다양한 인터페이스용 대화를 탑재 하여 좀 더 사용자와 친근감을 가지 도록 디자인한다.
-<center><img src="./img/lock.jpg" width="300" height="300"><br><strong>잠금 화면 캐릭터 위젯 서비스</strong></center><br><br>
+<center><img src="./img/lock.png" width="300" height="300"><br><strong>잠금 화면 캐릭터 위젯 서비스</strong></center><br><br>
 
 
 
