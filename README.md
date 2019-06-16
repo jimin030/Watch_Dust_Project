@@ -82,12 +82,12 @@
 <center><img src="./img/typing.jpg.png" width="300" height="400"><br><strong>지역 검색</strong><br><br>
 <center><img src="./img/voice.jpg.png" width="300" height="400"><br><strong>지역 음성 인식</strong><br></center><br>
   
- ### Menu
+### Menu
 >좌측 상단의 메뉴 버튼을 클릭하거나 왼쪽에서 오른쪽으로 화면을 스와이프하면 메뉴창이 나타난다. 
 메뉴에서 로그인한 자신의 계정을 확인할 수 있으며, 마이페이지, 테마변경, 환경설정 등이 가능하다.
 메인 화면을 클릭하거나, 끝내기 버튼을 끌릭하거나 오른쪽에서 왼쪽으로 스와이프할 시 메뉴화면에서 메인 화면으로 이동한다. 
 <center><img src="./img/menu.jpg.png" width="300" height="400"><br><strong> 화면</strong><br></center><br>
 
 ## Result
-[![클릭 후 어플 구동 영상으로 이동](http://img.youtube.com/vi/ZHyYesIwEAY/0.jpg)](https://www.youtube.com/watch?v=ZHyYesIwEAY&t=3s?t=0s) 
+[![클릭 후 어플 구동 영상으로 이동](https://img.youtube.com/vi/ZHyYesIwEAY/0.jpg)](https://www.youtube.com/watch?v=ZHyYesIwEAY&t=3s?t=0s) 
 <center><br><strong>사진 클릭 후 어플 구동 영상으로 이동</strong></center>
