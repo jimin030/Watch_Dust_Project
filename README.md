@@ -62,7 +62,7 @@
 ### Login
 >시작화면에서는 사용자의 로그인이 가능하며, 로그인이 완료되면 로딩화면으로 넘어간다.
 <center><img src="./img/login.jpg.png" width="300" height="400"><br><strong>시작 화면</strong><br><br>
-<center><img src="./img/loading.jpg.png" width="300" height="400"><br><strong>로딩중</strong></center><br><br>
+<img src="./img/loading.jpg.png" width="300" height="400"><br><strong>로딩중</strong></center><br><br>
   
 ### Main
 >현재부터 앞으로 12시간까지의 미세먼지 현황을 색을 통해 시각적이면서도 직관적으로 볼 수 있다. 
