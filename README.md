@@ -56,3 +56,4 @@
 ## 2.2 How To Develop
 ## 2.3 Result
 [![클릭 후 어플 구동 영상으로 이동](http://img.youtube.com/vi/ZHyYesIwEAY/0.jpg)](https://www.youtube.com/watch?v=ZHyYesIwEAY&t=3s?t=0s) 
+<center><br><strong>사진 클릭 후 어플 구동 영상으로 이동</strong></center>
