@@ -50,11 +50,12 @@
 <center><img src="./img/location.png" width="300" height="400"><br><strong>위치 설정 화면</strong></center><br><br>
 
 >잠금화면에 캐릭터 위젯 서비스를 제 공함으로 어플을 들어가지 않아도 대 략적인 미세먼지 현황을 알 수 있도 록 한다.
-캐릭터는 미세먼지 현황(좋음, 보통, 나쁨, 매우 나쁨)에 따라 색으로 나타 낸 각 캐릭터들이 화면에 등장한다. 캐릭터는 드래그를 통하여 스티커처 럼 이동이 가능하고 터치를 하면 말 풍선으로 현재 미세먼지의 수치적 현 황을 알려주거나 ‘마스크를 챙기시오’ 등 다양한 인터페이스용 대화를 탑재 하여 좀 더 사용자와 친근감을 가지 도록 디자인한다.
+캐릭터는 미세먼지 현황(좋음, 보통, 나쁨, 매우 나쁨)에 따라 색으로 나타 낸 각 캐릭터들이 화면에 등장한다. 캐릭터는 드래그를 통하여 스티커처 럼 이동이 가능하고 터치를 하면 말 풍선으로 현재 미세먼지의 수치적 현 황을 알려주거나 ‘마스크를 챙기시오’ 등 다양한 인터페이스용 대화를 탑재 하여 좀 더 사용자와 친근감을 가지도록 디자인한다.
 <center><img src="./img/lock.png" width="300" height="400"><br><strong>잠금 화면 캐릭터 위젯 서비스</strong></center><br><br>
 
-## 2.2 How To Develop
+## How To Develop
 <center><img src="./img/marvel.jpg" width="300" height="400"></center><br><br>
+
 >프로토타입핑 툴 마블을 사용하여 Watch Dust! 프로토타입 앱을 제작하였다. 마블은 스크린을 불러오고, 핫스팟을 만들어서 연결하는 방식으로서 간단한 screen by screen 프로토타입을 제작하기에 탁월하다. 스크린 간의 인터랙션을 잘 나타내줄 수 있고 빠르고 쉽게 프로토타이핑이 가능하다. 어플 스크린은 총 6개로서 시작화면, 로딩화면, 메인화면 세부먼지정보 화면, 지역설정 화면, 메뉴로 나뉜다.
 
 ### Login
@@ -62,6 +63,6 @@
 <center><img src="./img/login.jpg" width="300" height="400"><br><strong>시작 화면</strong><br><br>
 <center><img src="./img/loading.jpg" width="300" height="400"><br><strong>로딩중</strong></center><br><br>
 
-## 2.3 Result
+## Result
 [![클릭 후 어플 구동 영상으로 이동](http://img.youtube.com/vi/ZHyYesIwEAY/0.jpg)](https://www.youtube.com/watch?v=ZHyYesIwEAY&t=3s?t=0s) 
 <center><br><strong>사진 클릭 후 어플 구동 영상으로 이동</strong></center>
